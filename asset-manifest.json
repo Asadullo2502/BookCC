@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3434423.css",
+    "main.js": "/static/js/main.11b2e0e2.js",
+    "static/media/Tohir.png": "/static/media/Tohir.29fc2286508650a5c8f2.png",
+    "static/media/loginimg.png": "/static/media/loginimg.3c0c6dac1af51e12c813.png",
+    "static/media/Elchin.png": "/static/media/Elchin.0b9bfaa49ee6a293daed.png",
+    "static/media/bg4.png": "/static/media/bg4.fecb335516cf6fa43bd0.png",
+    "static/media/Qarniy.png": "/static/media/Qarniy.b41dddbbe9ec89d487f5.png",
+    "static/media/Rumiy.png": "/static/media/Rumiy.6487e1666ae2ef6605bd.png",
+    "static/media/Tursun.png": "/static/media/Tursun.1de0fd7cf3f629587bcb.png",
+    "static/media/book1.png": "/static/media/book1.d18080ba9a1a92019191.png",
+    "static/media/Qozonchi.png": "/static/media/Qozonchi.d93c36572f09e84c342f.png",
+    "static/media/Logo_black.png": "/static/media/Logo_black.e90a48934ec0b2b6b14d.png",
+    "static/media/Logo.png": "/static/media/Logo.ce2ccd263b916a1cdeed.png",
+    "static/media/Shayx.jpg": "/static/media/Shayx.6e869ddc65a370c21c9a.jpg",
+    "static/media/loading.gif": "/static/media/loading.7e1273c4315910668dfb.gif",
+    "static/media/loadingSmall.gif": "/static/media/loadingSmall.48ea496e512ece2b44ed.gif",
+    "index.html": "/index.html",
+    "main.b3434423.css.map": "/static/css/main.b3434423.css.map",
+    "main.11b2e0e2.js.map": "/static/js/main.11b2e0e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3434423.css",
+    "static/js/main.11b2e0e2.js"
+  ]
+}
